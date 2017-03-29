@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/crawler4j-4.1-jar-with-dependencies.jar" sourcepath="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/crawler4j-master"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/apache-mime4j-core-0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/apache-mime4j-dom-0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/commons-compress-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/je-4.0.92.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/logback-access-1.1.5-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/logback-access-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/logback-classic-1.1.5-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/logback-classic-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/logback-core-1.1.5-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/logback-core-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/metadata-extractor-2.4.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/tika-core-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhinavkumar/Desktop/WebCrawling/Dependencies/Crawler4j_JARS/tika-parsers-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
